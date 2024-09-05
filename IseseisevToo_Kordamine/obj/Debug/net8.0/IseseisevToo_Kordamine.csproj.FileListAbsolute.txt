@@ -1,0 +1,14 @@
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\bin\Debug\net8.0\IseseisevToo_Kordamine.exe
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\bin\Debug\net8.0\IseseisevToo_Kordamine.deps.json
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\bin\Debug\net8.0\IseseisevToo_Kordamine.runtimeconfig.json
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\bin\Debug\net8.0\IseseisevToo_Kordamine.dll
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\bin\Debug\net8.0\IseseisevToo_Kordamine.pdb
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.AssemblyInfoInputs.cache
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.AssemblyInfo.cs
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.csproj.CoreCompileInputs.cache
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.dll
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\refint\IseseisevToo_Kordamine.dll
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.pdb
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\IseseisevToo_Kordamine.genruntimeconfig.cache
+C:\Users\ripmy\source\repos\IseseisevToo_Kordamine\IseseisevToo_Kordamine\obj\Debug\net8.0\ref\IseseisevToo_Kordamine.dll
